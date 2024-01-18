@@ -1,2 +1,2 @@
 ans = 42
-print(f'{ans} is the answer!")
+print(f"{ans} is the answer!")
